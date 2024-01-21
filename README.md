@@ -10,7 +10,7 @@ To run the application, make sure you have [Node.js](https://nodejs.org/) instal
 
    ```bash
    git clone https://github.com/Ken-Obieze/learnable-js-e-commerce-console-app.git
-   cd e-commerce.js
+   cd learnable-js-e-commerce-console-app
    ```
 
 2. Install the required npm package:
