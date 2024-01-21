@@ -1,9 +1,12 @@
 # e-commerce console application (EJIS E-Fruit Store)
 
+## Authour
+Ejiofor Obieze (B)
+
+## Introduction
 E-commerce.js is a simple command-line interface (CLI) application for an e-fruit store called EJIS E-Fruit Store. Users can interact with the application to view the catalog, manage their shopping cart, and proceed to checkout.
 
 ## Getting Started
-
 To run the application, make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone this repository:
